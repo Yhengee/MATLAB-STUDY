@@ -22,3 +22,4 @@ F = [4,-65,-54,0,5;23,0,67,-45,0];
 find(F>4)%find返回的是index
 %有index。想要sub，可以调用ind..sub什么什么的
 %python 中import math引用数学函数库 .real .imag等
+%np.random
